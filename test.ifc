@@ -1,0 +1,4 @@
+#1= IFCWALL(1,2);
+#2= IFCWALL(3,4);
+#3= IFCWALL(5,6);
+#4= IFCWALL(7,8);
